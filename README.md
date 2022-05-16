@@ -1,0 +1,1 @@
+## A static personal site which I will turn into an incredible portfolio site later
